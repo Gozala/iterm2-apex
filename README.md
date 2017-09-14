@@ -11,6 +11,14 @@
 3. Open the Color Presets drop down menu and choose Import
 4. Choose the Apex.itermcolors file
 
+## iTerm2 Margins
+1. Open iTerm2 Preferences
+2. Navigate to Advanced
+3. Search for "margin"
+4. Look under General
+5. Enter 25 for top and bottom margin
+6. Enter 45 for left and right margin
+
 ## Credits
 
 **[@tj](https://github.com/tj)** - original [Apex UI theme](https://github.com/apex/apex-ui) (+[syntax](https://github.com/apex/apex-syntax)) for [Atom](https://atom.io).  
