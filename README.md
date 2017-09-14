@@ -13,4 +13,5 @@
 
 ## Credits
 
-**[@tj](https://github.com/tj)** - original [Apex UI theme](https://github.com/apex/apex-ui) (+[syntax](https://github.com/apex/apex-syntax)) for [Atom](https://atom.io).
+**[@tj](https://github.com/tj)** - original [Apex UI theme](https://github.com/apex/apex-ui) (+[syntax](https://github.com/apex/apex-syntax)) for [Atom](https://atom.io).  
+**[@zpnk](https://github.com/zpnk)** - [Apex theme for Hyper](https://github.com/zpnk/hyper-apex), which made porting the colors to iTerm2 easier.
