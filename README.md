@@ -2,6 +2,8 @@
 
 > Monochrome [iTerm2](https://www.iterm2.com) color preset based on the [Apex Atom theme](https://github.com/apex/apex-ui).
 
+![](screenshot.png)
+
 ## Install
 
 1. Open iTerm2 Preferences
